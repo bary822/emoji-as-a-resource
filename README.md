@@ -1,0 +1,1 @@
+# emoji-as-a-resource
